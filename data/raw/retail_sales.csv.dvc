@@ -1,5 +1,5 @@
 outs:
-- md5: c0f89390821abb1539e73fcb5d37513b
-  size: 3277
+- md5: b8bded7b568603e15fd42a16d5898438
+  size: 3927
   hash: md5
   path: retail_sales.csv
