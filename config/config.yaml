@@ -1,0 +1,12 @@
+
+data:
+  raw_path: data/raw/retail_sales.csv
+  processed_path: data/processed/retail_sales_processed.csv
+  target_column: Sales
+
+training:
+  test_size: 0.2
+  random_state: 42
+
+model:
+  save_path: models/retail_sales_model.pkl

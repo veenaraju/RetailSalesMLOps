@@ -1,0 +1,31 @@
+
+# Virtual Environment
+venv/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model Files
+models/*.pkl
+
+# Processed Data
+data/processed/
+
+# DVC Cache
+.dvc/cache/
+
+# MLflow
+mlruns/
+mlflow.db
+
+# IDE
+.vscode/
+
+# Operating System
+.DS_Store
+Thumbs.db
