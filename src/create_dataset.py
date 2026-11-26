@@ -7,7 +7,7 @@ products = ["Laptop", "Mobile", "Tablet", "Monitor", "Keyboard"]
 
 records = []
 
-for i in range(100):
+for i in range(120):
     product = np.random.choice(products)
 
     quantity = np.random.randint(1, 11)
