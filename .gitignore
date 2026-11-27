@@ -7,21 +7,18 @@ venv/
 __pycache__/
 *.pyc
 
-# Jupyter
-.ipynb_checkpoints/
-
-# Model Files
+# Model files
 models/*.pkl
 
-# Processed Data
+# Processed data
 data/processed/
 
-# DVC Cache
+# DVC cache
 .dvc/cache/
 
 # MLflow
-mlruns/
 mlflow.db
+mlruns/
 
 # IDE
 .vscode/
